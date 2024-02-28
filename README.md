@@ -1,0 +1,1 @@
+The code here is based on the paper "Self-interpretation and reflection in a statically typed language", see[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d85eb584f82f6adadee73f1185a38d3e7e8d6c08].
